@@ -11,6 +11,7 @@ import { ContactComponent } from './components/contact/contact.component';
 import { SocialMediaComponent } from './components/social-media/social-media.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HeaderComponent } from './components/header/header.component';
+import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,7 @@ import { HeaderComponent } from './components/header/header.component';
     SocialMediaComponent,
     FooterComponent,
     HeaderComponent,
-    
+    PageNotFoundComponent,
   ],
   imports: [
     CommonModule
