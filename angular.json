@@ -27,7 +27,6 @@
               "node_modules/bulma/css/bulma.css"
             ],
             "scripts": [
-              "src/node_modules/typed.js/src/typed.js"
             ]
           },
           "configurations": {

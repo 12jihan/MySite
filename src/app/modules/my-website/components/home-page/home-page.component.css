@@ -4,6 +4,6 @@
     font-weight: 100;
 }
 
-.typed-cursor {
+span.typed-cursor {
     font-size: 100px !important;
 }
