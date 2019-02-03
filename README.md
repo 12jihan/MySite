@@ -1,6 +1,6 @@
-# FrostosAngular
+# No Longer being updated
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+going to move the project to another repo and start fresh as there are issues with the way I originally began developing the app checkout repo - MySitePro ;) . thanks and sorry for the inconvenience, if it matters...
 
 ## Development server
 
